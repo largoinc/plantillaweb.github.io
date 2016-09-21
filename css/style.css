@@ -1,0 +1,168 @@
+/*font-family: 'Shadows Into ligth', cursive;
+font-family: 'indie Flower, cursive';
+*/
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+}
+
+body{
+
+background: white;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+/*ETIQUETAS*/
+
+}
+
+h1{
+font-family: 'Shadows Into Light', cursive;
+color: white;
+margin-top: 40px;
+margin-left: 10px;
+font-size: 25px;
+text-align: center;
+
+}
+
+h2{
+font-family: 'Indie Flower', cursive;
+color: white;
+margin-left: 10px;
+font-size: 20px;
+text-align: center;
+}
+
+h3{
+font-family: 'Shadows Into Light', cursive;
+color: white;
+font-size: 20 px;
+text-align: center;
+}
+
+header {
+
+	width: 1000px;
+	height: 160px;
+	background: #1E283E;
+	border-radius: 10px;
+}
+
+img.imgcenter{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+img.imgcenter2{
+	width: 620px;
+	height: 180px;
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+img.imgcenter3{
+	width: 600px;
+	height: 100px;
+	display: block;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+img.imgcenter4{
+	width: 260px;
+	height: 80px;
+	display: block;
+	margin-bottom: 120px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+nav{
+	width: 1000px;
+	height: 50px;
+	background: #3158AB;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+
+ul{
+	margin: auto;
+	padding-top: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: black;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white inset;
+}
+
+section{
+	width: 700px;
+	background: #9BA1B0;
+	height: 900px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+aside{
+	width: 280px;
+	background: #9BA1B0;
+	height: 900px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+footer{
+	width: 1000px;
+	height: 70px;
+	background: black;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+p{
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white;text-decoration: none;}
+.menu:visited{color: white;text-decoration: none;}
+.menu:hover{color: white;text-decoration: none; text-shadow: 0 0 13px;}
+.menu:active{color: white;text-decoration: none;}
+
+/*SEUDOCLASE*/
+
+
+
